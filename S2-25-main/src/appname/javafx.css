@@ -1,0 +1,13 @@
+
+#allbtn {
+    -fx-padding:4px;
+    -fx-background-radius: 10px;
+    transition: all .5s ease;
+}
+
+#hex {
+    border: solid 2px purple;
+    color: purple;
+    -fx-padding:15px;
+    -fx-background-radius: 10px;
+}
